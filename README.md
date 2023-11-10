@@ -1,5 +1,6 @@
 # Data visualisation
 ![Data visualisation](/images/Banner.jpg)
+# Live demo
 [Live demo](https://washupo.github.io/dataVisualisation/)
 # Description
 Based on a article with data in the form of HTML tables and a php file, we were asked to create interactive data visualisation graphics using javascript. 
